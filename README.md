@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+My name is Thomas Johnson and I am a Cybersecurity major.
